@@ -1,4 +1,3 @@
-layout_spectrum: 0.24706459091976285
 typography_spectrum: 0.5522463906090707
 color:
   brandStrength: 0.06504185264930129
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.24706459091976285
 name: immGridTest
+title: Great headline
 description: that didn't work
