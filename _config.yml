@@ -1,0 +1,14 @@
+layout_spectrum: 0.24706459091976285
+typography_spectrum: 0.5522463906090707
+color:
+  brandStrength: 0.06504185264930129
+  lightness: 0.6961911891121417
+  saturation: 0.18387828208506107
+  rhythmicContrast: 0.33894005394540727
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: immGridTest
