@@ -6,9 +6,9 @@ color:
   saturation: 0.18387828208506107
   rhythmicContrast: 0.33894005394540727
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: immGridTest
